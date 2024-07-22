@@ -1,7 +1,4 @@
 # Cyberpunk-Neon
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z1139QA)
-[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/roboron/donate)
-
 ![Cyberpunk Neon theme in action 1](https://raw.githubusercontent.com/Roboron3042/Cyberpunk-Neon/master/resources/screenshots/screenshot-1.png)
 ![Cyberpunk Neon theme in action 2](https://raw.githubusercontent.com/Roboron3042/Cyberpunk-Neon/master/resources/screenshots/screenshot-2.png)
 ![Cyberpunk Neon theme in action 3](https://raw.githubusercontent.com/Roboron3042/Cyberpunk-Neon/master/resources/screenshots/screenshot-3.png)
